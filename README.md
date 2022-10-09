@@ -1,0 +1,4 @@
+- 👋 Salut ! Je me présente @djelectro95 pour vous servir
+- 👀 Je suis intéressé à devenir un développeur web en backend
+- 🌱 J'apprends actuellement le C#, le langage Web (HTML, CSS, SCSS, JS, PHP), le SQL (MariaDB)
+- 📫 Comment me contacter ? Par message privé
